@@ -1,0 +1,11 @@
+#header
+{
+  font-weight: bold;
+}
+.card{
+width: 250px;
+height: 350px;
+}
+#cardtitle{
+  font-size:15px;
+}
